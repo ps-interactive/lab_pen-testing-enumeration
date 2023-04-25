@@ -1,0 +1,12 @@
+List of files and where they come from
+
+clock_gettime.c		handmade
+defines.h		portable openssh
+fgetln.c		part of /usr/src/usr.bin/make/util.c
+includes.h		portable openssh
+openbsd-compat.h	portable openssh
+strlcat.c		portable openssh
+strlcpy.c		portable openssh
+strtonum.c		portable openssh
+sys/queue.h		portable openssh
+sys/tree.h		portable openssh

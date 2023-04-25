@@ -1,0 +1,29 @@
+libasr 1.0.4  (2020/01/17)
+--------------------------
+* add definition of MAXDNAME for systems that lack it
+* some libc require include of nameser_compat.h for rr types definition
+
+libasr 1.0.3  (2019/09/28)
+--------------------------
+* add support for edns0 and dnssec
+* remove support for HOSTALIASES
+* remove support for non-standard [addr]:port syntax for nameserver
+* remove support for YP
+* always reload resolv.conf if pid changed
+* various bugfixes and improvements
+
+libasr 1.0.2  (2015/06/03)
+--------------------------
+* Make AI_ADDRCONFIG filter on loopback address instead of loopback interface
+* Limit AI_ADDRCONFIG effects to DNS queries
+* Install manpages
+* Allow more aliases and addrs for gethostby*_async() and ignore extra entries
+
+libasr 1.0.1  (2015/02/02)
+--------------------------
+* Fix potential off-by-one when parsing /etc/hosts
+* Fix possible NULL-deref when iterating on getifaddrs() result
+
+libasr 1.0.0  (2014/12/21)
+--------------------------
+* First public release
