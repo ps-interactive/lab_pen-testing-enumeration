@@ -1,4 +1,4 @@
-root:   ubuntu
-ubuntu@ubuntu:        ubuntu
-ubuntu:    ubuntu
-root@ubuntu:   ubuntu
+root:   pslearner
+pslearner@pslearner:        pslearner
+pslearner:    pslearner
+root@pslearner:   pslearner
