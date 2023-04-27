@@ -80,7 +80,6 @@ java
 webs
 ……
 webadmin
-ftp
 test123
 root123
 admin123
@@ -102,13 +101,6 @@ alex
 brett
 mike
 alan
-data
-www-www-data
-http
-httpd
-nobody
-login
-backup
 shop
 sales
 web
@@ -122,11 +114,8 @@ michael
 john
 david
 paul
-news
 angel
-games
 pgsql
-mail
 adm
 ident
 sandra
@@ -138,7 +127,6 @@ frank
 suse
 monitor
 root2007
-daemon
 hunter
 mandriva
 tiffany
@@ -410,7 +398,6 @@ friends
 admins
 testpc
 jay
-proxy
 cyrus
 bill
 thamson
@@ -445,13 +432,10 @@ iloveyou
 tomcat123
 qazwsx
 xswzaq
-uucp
 www-123456
-list
-irc
 juan
 cang
-gnats
+shirley
 ftpuser
 tajiki
 ozbaki
