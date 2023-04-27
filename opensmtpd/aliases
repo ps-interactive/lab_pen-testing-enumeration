@@ -1,7 +1,9 @@
 root:root
 root@ip-172-31-24-10:root
+root@ip-172-31-24-10.us-west-2.compute.internal:root
 roger:roger
 roger@ip-172-31-24-10:roger
+roger@ip-172-31-24-10.us-west-2.compute.internal:roger
 shirley:shirley
 shirley@ip-172-31-24-10:shirley
 
